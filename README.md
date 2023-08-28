@@ -1,0 +1,1 @@
+This is the project required at the end of the "Flexbox" module, of the "Foundations" course, from The Odin Project.
