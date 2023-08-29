@@ -20,14 +20,18 @@ button {
     display: inline-block;
 }
 
+.padding {
+    padding: 50px 250px;
+}
+
 
 .header {
     background-color: #1F2937;
+    padding-top: 20px;
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
-    padding: 0 50px;
 }
 
 .logo {
@@ -46,7 +50,6 @@ button {
     background-color: #1F2937;
     display: flex;
     flex-direction: row;
-    padding: 50px 50px;
     padding-bottom: 100px;
     gap: 60px;
     align-items: center;
@@ -76,7 +79,6 @@ button {
 }
 
 .section2 {
-    padding: 50px 50px;
     padding-bottom: 100px;
     display: flex;
     justify-content: center;
@@ -118,7 +120,6 @@ button {
 
 .section3 {
     background-color: #e5E7eb;
-    padding: 50px 50px;
     padding-bottom: 100px;
     display: flex;
     flex-direction: column;
@@ -139,10 +140,6 @@ button {
 .section3 h3 {
     font-size: 20px;
     color: #1F2937;
-}
-
-.section4 {
-    padding: 50px 50px;
 }
 
 .container {
